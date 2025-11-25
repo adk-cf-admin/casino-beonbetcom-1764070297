@@ -1,0 +1,19 @@
+{
+  "name": "BeOnBet",
+  "short_name": "BeOnBet",
+  "theme_color": "",
+  "background_color": "#0f100f",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1764066067-favicon-beonbetnoweu.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://casino-beonbet.com/
+Sitemap: https://casino-beonbet.com/sitemap.xml
